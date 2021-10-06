@@ -84,4 +84,20 @@ public class Point {
 		System.out.println(list.indexOf(p3));
 	}*/
 	
+	//********************************************************************************//
+	
+	//exercice 5:
+	
+	1. public void translate(int dx, int dy){
+		x = x + dx;
+   		y = y + dy;
+	}
+	
+	public void translate(int d) {
+		x = x + d;
+		y = y + d;
+	}
+	
+	// Others questions are in the class Circle
+	
 }
